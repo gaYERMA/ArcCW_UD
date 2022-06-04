@@ -26,7 +26,7 @@ att.Mult_Damage = 30 / 34
 att.Mult_DamageMin = 17 / 20
 att.Mult_Range = 0.4
 att.Mult_ShootSpeedMult = 1.1
-att.Mult_Recoil = 0.35
+att.Mult_Recoil = 0.359
 att.Mult_HipDispersion = 0.85
 
 --att.Mult_ReloadTime = 0.85
